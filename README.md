@@ -19,7 +19,9 @@ Here are some highlighted projects that I have worked on. Each project includes 
 - [Project 4](link) - Description of Project 4.
 - [Project 5](link) - Description of Project 5.
 
-Feel free to explore my [GitHub profile](https://github.com/programm3d) for more projects and contributions.
+  
+(link to live demo of projects will be updated soon)
+Feel free to explore my [GitHub profile](https://github.com/programm3d) for source code of projects and contributions.
 
 ## Skills
 C, C++, HTML, CSS, Javascript, DSA, Bootstrap, Wordpress, WooCommerce, SEO.
